@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/DevOps-Practices-2022/Space%20Game-Web-Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/DevOps-Practices-2022/Space%20Game-Web-Workflow/_build/latest?definitionId=2&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
